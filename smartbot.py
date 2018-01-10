@@ -34,7 +34,7 @@ class Jarvis_shivam(Client):
 
         # Convert json obect to a list
         reader = codecs.getdecoder("utf-8")
-        obj = json.load(reader(response))
+        obj = json.load(response)
 
         # Get reply from the list
         reply = obj['result']['fulfillment']['speech']
@@ -48,7 +48,7 @@ class Jarvis_shivam(Client):
 
 
 # Create an object of our class, enter your email and password for facebook.
-client = Jarvis_shivam('__ email for facebook__', 'password')
+client = Jarvis_shivam('shivam.pandey.581730@facebook.com', 'uchiha03')
 
 # Listen for new message
 client.listen()
