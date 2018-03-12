@@ -6,7 +6,7 @@ A bot to reply to people who texts me on facebook.
 <p> Steps to run the code</p>
 <ul>
   <li>open cmd and move to required destination </li>
-  <li> write "python "file name for the code made for the bot".py </li>
+  <li> write "python smartbot.py" and hit enter. </li>
   </ul>
   
   <h2>happy Experimenting and programmming... </h2>
