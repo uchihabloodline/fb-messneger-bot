@@ -48,7 +48,7 @@ class Jarvis_shivam(Client):
 
 
 # Create an object of our class, enter your email and password for facebook.
-client = Jarvis_shivam('shivam.pandey.581730@facebook.com', 'uchiha03')
+client = Jarvis_shivam('FACEBOOK_e_MAIL', 'PASSWORD')
 
 # Listen for new message
 client.listen()
