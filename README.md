@@ -9,4 +9,8 @@ A bot to reply to people who texts me on facebook.
   <li> write "python smartbot.py" and hit enter. </li>
   </ul>
   
+  <h2> Technology used </h2>
+  <li>Fbchat facebook API</li>
+  <li> DialogFlow API for training of bot </li>
+  
   <h2>happy Experimenting and programmming... </h2>
