@@ -13,4 +13,9 @@ A bot to reply to people who texts me on facebook.
   <li>Fbchat facebook API</li>
   <li> DialogFlow API for training of bot </li>
   
+  <h3>Types of bots added </h3>
+  <li>Simple generative-selective bot </li>
+  <li>echo bot </li>
+  <li>group management bot </li>
+  
   <h2>happy Experimenting and programmming... </h2>
