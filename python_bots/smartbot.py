@@ -6,7 +6,7 @@ class Jarvis_shivam(Client):
 
     # Connect to dialogflow
     def apiaiCon(self):
-        self.CLIENT_ACCESS_TOKEN = "612cb56789fe4cd6b296ffa54fb07cb3"
+        self.CLIENT_ACCESS_TOKEN = "__keys__"
         self.ai = apiai.ApiAI(self.CLIENT_ACCESS_TOKEN)
         self.request = self.ai.text_request()
         self.request.lang = 'de' #Default : English
@@ -48,7 +48,7 @@ class Jarvis_shivam(Client):
 
 
 # Create an object of our class, enter your email and password for facebook.
-client = Jarvis_shivam('shivam.pandey.581730@facebook.com', 'uchiha03')
+client = Jarvis_shivam('email_id', 'password')
 
 # Listen for new message
 client.listen()
