@@ -1,22 +1,19 @@
 # fb-messneger-bot
-A bot to reply to people who texts me on facebook.
-
-
-<h2> A bot for facebook messenger application. It replies whenever the script runs.</h2>
+<h2>A automation of messaging for facebook messenger application.<h2>
+  
+  
 <p> Steps to run the code</p>
 <ul>
-  <li>open cmd and move to required destination </li>
-  <li> write "python smartbot.py" and hit enter. </li>
+  <li>From commandline, navigate to corresponding directory where you have cloned the project. </li>
+  <li> type "python smartbot.py" and hit enter. </li>
   </ul>
   
-  <h2> Technology used </h2>
+  <h2> Tech used </h2>
+  <li> Python3 </li>
   <li>Fbchat facebook API</li>
   <li> DialogFlow API for training of bot </li>
   
-  <h3>Types of bots added </h3>
-  <li>Simple generative-selective bot </li>
-  <li>echo bot </li>
-  <li>group management bot </li>
+  <p>Pull requests and any other changes to repository are accepted.</p>
   
   <h2>happy Experimenting and programmming... </h2>
   
